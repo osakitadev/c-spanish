@@ -1,5 +1,5 @@
 # SPANISH.H
-spanish.h is a standalone header file I made when I was bored of learning C and because I had nothing better to do.
+spanish.h is a standalone header file I made when I was bored of learning C++ and because I had nothing better to do.
 
 If you like this (somehow) and want to contribute adding more stuff, just do it and I will check it :)
 
