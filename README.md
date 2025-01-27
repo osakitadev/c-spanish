@@ -3,6 +3,8 @@ spanish.h is a standalone header file I made when I was bored of learning C and 
 
 If you like this (somehow) and want to contribute adding more stuff, just do it and I will check it :)
 
+To use this header, just download the [spanish.h file](./src/spanish.h) and put it in your project, and done
+
 ## NOTE
 DO NOT use this for a real application (obviously dude), it was just made as a joke.
 
