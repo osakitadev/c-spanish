@@ -11,7 +11,7 @@
 
 /* Keywords */
 #define automatico      auto
-#define romper          breaks
+#define romper          break
 #define constante       const
 #define enumerador      enum
 #define extender        extern
