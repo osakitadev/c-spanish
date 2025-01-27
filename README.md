@@ -32,7 +32,7 @@ vacio principal() {
     // if
   } siNo(condition2) {
     // else if
-  } contrario() {
+  } contrario {
     // else
   }
 }
